@@ -12,7 +12,6 @@ body {
   color: white;
 }
 
-h1,
 h2 {
   font-family: "Inter", sans-serif;
 }
@@ -88,7 +87,7 @@ a:focus {
   padding: 0rem 1.5rem 2rem;
 }
 
-.card_text h1 {
+.card_text h2 {
   font-size: 1.8rem;
   line-height: 1.1;
 }
@@ -161,7 +160,7 @@ a:focus {
     text-align: left;
     padding: 2rem 0 2rem 5rem;
   }
-  .card_text h1 {
+  .card_text h2 {
     font-size: 2rem;
     width: 18ch;
     line-height: 1.3;

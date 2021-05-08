@@ -23,7 +23,6 @@ body{
     padding: 0;
     color: $color-white;
 }
-h1,
 h2{
     font-family: $font-inter;
 }
@@ -71,7 +70,7 @@ a:focus{
         padding: 0rem 1.5rem 2rem;
     }
     &_text{
-        h1{
+        h2{
             font-size: $font-size-h1;
             line-height: 1.1;
         }
@@ -130,7 +129,7 @@ a:focus{
         }
         &_text{
             
-            h1{
+            h2{
                 font-size: $font-size-h1;
                 width: 18ch;
                 line-height: 1.3;

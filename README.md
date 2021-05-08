@@ -26,7 +26,7 @@ Users should be able to:
 ### Screenshot
 
 - [Desktop Screenshot](/images/desktop_preview.png)
-- [Mobile Screenshot](/images/mobile_preview.png)
+- [Mobile Screenshot](/images/mobile.preview.png)
 
 ### Links
 
